@@ -76,3 +76,10 @@ With over **18 years of global IT experience**, I've held pivotal roles at indus
 - 🌐 [myitblog.in](https://www.myitblog.in/)
 - 🏅 [vExpert Directory](https://vexpert.vmware.com/directory/327)
 
+
+### ✍️ Some of My Most Viewed Medium Articles
+
+- 🚀 [ARM in the Cloud: Why the Future of Compute Is Being Rewritten](https://medium.com/@rdjagadeesh/arm-in-the-cloud-why-the-future-of-compute-is-being-rewritten-xyz123)
+- 🔧 [Why Reliability Is the New Currency of Cloud Architecture](https://medium.com/@rdjagadeesh/why-reliability-is-the-new-currency-of-cloud-architecture-abc456)
+- 🤖 [Building Resilient Cloud Architectures with Conformity Bots: A Practical Guide](https://medium.com/@rdjagadeesh/building-resilient-cloud-architectures-with-conformity-bots-a-practical-guide-def789)
+
