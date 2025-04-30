@@ -1,39 +1,66 @@
-# 👋 Hello, I'm Jagadeesh Devaraj  (JD)
+# 👋 Hello, I'm Jagadeesh (JD)
 
-🚀 Cloud Architect | VMware vExpert | DevOps Enthusiast  | SRE Lead | Engineering Lead
+🎯 Cloud & Infrastructure Architect | Site Reliability Engineering Leader | VMware vExpert (10x) | Microsoft MVP  
+
+
 📍 Amsterdam, Netherlands  
-🌐 [myitblog.in](https://www.myitblog.in/) | 💼 [LinkedIn](https://www.linkedin.com/in/rdjagadeesh/)
+
+
+🌐 [myitblog.in](https://www.myitblog.in/) |
+💼 [LinkedIn](https://www.linkedin.com/in/rdjagadeesh/) | 
+🏅 [vExpert Profile](https://vexpert.vmware.com/directory/327)
 
 ---
 
-## 🧰 Tech Stack
+## 🧑‍💼 About Me
+
+With over **18 years of global IT experience**, I've held pivotal roles at industry giants like **VMware Inc**, **adidas AG**, **Amazon**, and currently at **ING Netherlands**. My journey encompasses:
+
+- ☁️ **Cloud & Infrastructure Architecture**: Designing scalable, resilient systems across on-premises and cloud platforms.
+- 🔧 **Site Reliability Engineering (SRE)**: Implementing SRE principles to enhance system reliability, observability, and performance.
+- 🤝 **Pre-Sales & Technical Leadership**: Bridging business needs with technical solutions, leading cross-functional teams.
+- 🏢 **Data Center Modernization**: Overhauling legacy systems to align with modern infrastructure standards.
+
+---
+
+
+## 🛠️ Technical Proficiencies
 
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![vSphere](https://img.shields.io/badge/vSphere-607078?style=flat&logo=vmware&logoColor=white)
+![NSX](https://img.shields.io/badge/NSX-00ADEF?style=flat&logo=vmware&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![NSX](https://img.shields.io/badge/NSX-00ADEF?style=flat&logo=vmware&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-000000?style=flat&logo=devops&logoColor=white)
+![SRE](https://img.shields.io/badge/SRE-000000?style=flat&logo=google&logoColor=white)
+
 
 ---
 
-## 📝 Blog & Projects
+## 🏆 Recognitions & Community Engagement
 
-- 🧪 [vic_homelab](https://github.com/rdjagadeesh/vic_homelab): Sample exercises for beginners on VMware Integrated Containers (VIC).
-- ⚙️ [ansible-examples-master](https://github.com/rdjagadeesh/ansible-examples-master): A collection of Ansible playbooks and examples for automation tasks.
-- ☁️ [terraforming-aws](https://github.com/rdjagadeesh/terraforming-aws): Terraform scripts and configurations for AWS infrastructure provisioning.
+- 🏅 **[VMware vExpert – 10x Honoree (Since 2014)](https://vexpert.vmware.com/directory/327)**  
+  Acknowledged for significant contributions to the VMware community over a decade.
+
+- 🌐 **Microsoft MVP**  
+  Recognized for active participation and support in Microsoft technical communities.
+
+- 🎤 **Speaker at VMworld & Industry Events**  
+  Sharing insights on cloud architecture, SRE, and DevOps transformations.
+
+- ✍️ **Blogger at [myitblog.in](https://www.myitblog.in/)**  
+  Writing on topics like cloud-native architectures, automation, and operational best practices.
 
 ---
 
-## 🏆 Achievements
+## 📂 Featured Projects
 
-- 🏅 **VMware vExpert**
-- 🎤 **VMworld Speaker**
-- 📜 **VCAP**,
-- **MCITP** Certified
-- 🧊 **Arctic Code Vault Contributor**
+- 🧪 [vic_homelab](https://github.com/rdjagadeesh/vic_homelab): Hands-on labs for VMware Integrated Containers.
+- ⚙️ [ansible-examples-master](https://github.com/rdjagadeesh/ansible-examples-master): Real-world Ansible playbooks for automation tasks.
+- ☁️ [terraforming-aws](https://github.com/rdjagadeesh/terraforming-aws): Terraform scripts for AWS infrastructure provisioning.
 
 ---
 
@@ -43,4 +70,9 @@
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rdjagadeesh/) or explore more on my [blog](https://www.myitblog.in/).
+📫 **Let's Connect**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rdjagadeesh/)
+- 🌐 [myitblog.in](https://www.myitblog.in/)
+- 🏅 [vExpert Directory](https://vexpert.vmware.com/directory/327)
+
