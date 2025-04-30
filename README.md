@@ -56,36 +56,6 @@ With over **18 years of global IT experience**, I've held pivotal roles at indus
 
 ---
 
-## 📝 Recent Medium Articles
-
-<table>
-  <tr>
-    <td>
-      <a href="https://medium.com/@rdjagadeesh/arm-in-the-cloud-why-the-future-of-compute-is-being-rewritten-5c8e347ac5a2">
-        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*b25pFXyb1ozbRMTqXKiSLw.png" width="250" alt="ARM in the Cloud">
-        <br />
-        <strong>ARM in the Cloud: Why the Future of Compute Is Being Rewritten</strong>
-      </a>
-    </td>
-    <td>
-      <a href="https://medium.com/@rdjagadeesh/why-reliability-is-the-new-currency-of-cloud-architecture-94a3bbec67f2">
-        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*D9CXL88qOyD2Y3odTP9n4A.png" width="250" alt="Reliability in Cloud">
-        <br />
-        <strong>Why Reliability Is the New Currency of Cloud Architecture</strong>
-      </a>
-    </td>
-    <td>
-      <a href="https://medium.com/@rdjagadeesh/building-resilient-cloud-architectures-with-conformity-bots-a-practical-guide-f408340f3a75">
-        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*E3fXzYz3Qz6Zxk3n8Yz9aQ.png" width="250" alt="Conformity Bots">
-        <br />
-        <strong>Building Resilient Cloud Architectures with Conformity Bots</strong>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📂 Featured Projects
 
 - 🧪 [vic_homelab](https://github.com/rdjagadeesh/vic_homelab): Hands-on labs for VMware Integrated Containers.
