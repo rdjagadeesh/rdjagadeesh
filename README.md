@@ -66,7 +66,7 @@ This hands-on approach helps me communicate effectively with both executive stak
 - 📐 **TOGAF Enterprise Architecture Foundation (Version 10)**
   Certified in the TOGAF Standard, 10th Edition foundation concepts and terminology.
 
-- 🏅 **[VMware vExpert – 10x Honoree (Since 2014)](https://vexpert.vmware.com/directory/327)**  
+- 🏅 **[VMware vExpert – 11x Honoree (Since 2014)](https://vexpert.vmware.com/directory/327)**  
   Acknowledged for significant contributions to the VMware community over a decade.
 
 - 🌐 **Microsoft MVP**  
@@ -97,12 +97,12 @@ Selected original public repositories that demonstrate my range from AI architec
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdjagadeesh&show_icons=true&hide_border=true&include_all_commits=true" alt="Jagadeesh's GitHub statistics" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdjagadeesh&layout=compact&hide_border=true&langs_count=8" alt="Jagadeesh's most used programming languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdjagadeesh&show_icons=true&hide_border=true&include_all_commits=true" alt="JD's GitHub statistics" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdjagadeesh&layout=compact&hide_border=true&langs_count=8" alt="JD's most used programming languages" height="165">
 </div>
 
 <div align="center">
-  <a href="https://github.com/rdjagadeesh?tab=repositories">View all 23 public repositories on GitHub</a>
+  <a href="https://github.com/rdjagadeesh?tab=repositories">View all public repositories on GitHub</a>
 </div>
 
 ---
@@ -116,5 +116,5 @@ Selected original public repositories that demonstrate my range from AI architec
 
 ### ✍️ AI Architecture Writing
 
-I write about enterprise AI adoption, AI-ready platforms, cloud architecture, reliability, governance, and the practical trade-offs behind modern technology decisions on [Medium](https://medium.com/@rdjagadeesh).
+I write about enterprise AI adoption, AI-ready platforms, cloud architecture, reliability, governance, and the practical trade-offs behind modern technology decisions on [Medium Blogs](https://medium.com/@rdjagadeesh).
 
