@@ -94,19 +94,6 @@ Selected original public repositories that demonstrate my range from AI architec
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdjagadeesh&show_icons=true&hide_border=true&include_all_commits=true" alt="JD's GitHub statistics" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdjagadeesh&layout=compact&hide_border=true&langs_count=8" alt="JD's most used programming languages" height="165">
-</div>
-
-<div align="center">
-  <a href="https://github.com/rdjagadeesh?tab=repositories">View all public repositories on GitHub</a>
-</div>
-
----
-
 📫 **Let's Connect**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rdjagadeesh/)
