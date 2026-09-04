@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jagadeesh (JD)
 
-🎯 Cloud & Infrastructure Architect | Site Reliability Engineering Leader | VMware vExpert (10x) | Microsoft MVP  
+🎯 Enterprise & Cloud Architect | AI Architecture | SRE Engineering Leader | TOGAF 10 Foundation | VMware vExpert | Microsoft MVP
 
 
 📍 Amsterdam, Netherlands  
@@ -14,10 +14,16 @@
 
 ## 🧑‍💼 About Me
 
-With over **18 years of global IT experience**, I've held pivotal roles at industry giants like **VMware Inc**, **adidas AG**, **Amazon**, and currently at **ING Netherlands**. My journey encompasses:
+With over **18 years of global IT experience**, I've held pivotal roles at **VMware Inc**, **adidas AG**, **Amazon**, and currently at **ING Netherlands**. I connect business strategy, enterprise architecture, cloud platforms, reliability engineering, and emerging AI capabilities to help organizations modernize with clarity and control. I am an architect who builds: I turn principles, standards, and guardrails into practical automation that teams can use.
 
+My journey encompasses:
+
+- 🏢 **Enterprise Architecture**: Translating business and technology strategy into target architectures, roadmaps, standards, and actionable transformation plans.
+- 🤖 **AI Architecture & Enablement**: Exploring practical applications of generative AI, machine learning platforms, AI governance, data foundations, and responsible adoption patterns.
 - ☁️ **Cloud & Infrastructure Architecture**: Designing scalable, resilient systems across on-premises and cloud platforms.
 - 🔧 **Site Reliability Engineering (SRE)**: Implementing SRE principles to enhance system reliability, observability, and performance.
+- 🛡️ **Conformity & Guardrails**: Building conformity bots and automated guardrails for SRE and AI practices, helping teams detect drift, enforce standards, and improve operational confidence.
+- 🧰 **Hands-on Engineering**: Prototyping and delivering working tools, automation, and reference implementations rather than stopping at strategy or diagrams.
 - 🤝 **Pre-Sales & Technical Leadership**: Bridging business needs with technical solutions, leading cross-functional teams.
 - 🏢 **Data Center Modernization**: Overhauling legacy systems to align with modern infrastructure standards.
 
@@ -36,11 +42,29 @@ With over **18 years of global IT experience**, I've held pivotal roles at indus
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-000000?style=flat&logo=devops&logoColor=white)
 ![SRE](https://img.shields.io/badge/SRE-000000?style=flat&logo=google&logoColor=white)
+![Enterprise Architecture](https://img.shields.io/badge/Enterprise%20Architecture-1F4E79?style=flat&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/AI%20Architecture-5B3A70?style=flat&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-2E7D6B?style=flat&logoColor=white)
 
+---
+
+## 🧰 Builder's Practice
+
+At my current role, I build practical engineering solutions at the intersection of architecture, SRE, and AI:
+
+- **Conformity bots** that assess environments and services against defined architecture and operational standards.
+- **SRE guardrails** that support reliability, observability, consistency, and policy-driven operations.
+- **AI guardrails** that encourage responsible, secure, and governed adoption of AI capabilities.
+- **Working prototypes and automation** that turn architectural intent into repeatable engineering workflows.
+
+This hands-on approach helps me communicate effectively with both executive stakeholders and engineering teams, from strategy and governance through implementation.
 
 ---
 
 ## 🏆 Recognitions & Community Engagement
+
+- 📐 **TOGAF Enterprise Architecture Foundation (Version 10)**
+  Certified in the TOGAF Standard, 10th Edition foundation concepts and terminology.
 
 - 🏅 **[VMware vExpert – 10x Honoree (Since 2014)](https://vexpert.vmware.com/directory/327)**  
   Acknowledged for significant contributions to the VMware community over a decade.
@@ -58,15 +82,28 @@ With over **18 years of global IT experience**, I've held pivotal roles at indus
 
 ## 📂 Featured Projects
 
-- 🧪 [vic_homelab](https://github.com/rdjagadeesh/vic_homelab): Hands-on labs for VMware Integrated Containers.
-- ⚙️ [ansible-examples-master](https://github.com/rdjagadeesh/ansible-examples-master): Real-world Ansible playbooks for automation tasks.
-- ☁️ [terraforming-aws](https://github.com/rdjagadeesh/terraforming-aws): Terraform scripts for AWS infrastructure provisioning.
+Selected original public repositories that demonstrate my range from AI architecture and secure platforms to cloud automation and hands-on infrastructure engineering.
+
+| Project | What it demonstrates |
+| --- | --- |
+| [binarybucks-agentic-banking](https://github.com/rdjagadeesh/binarybucks-agentic-banking) | A Python, Streamlit, and Google Gemini multi-agent banking support demo with account, risk, and service workflows. |
+| [cloudy-with-a-chance-of-ai](https://github.com/rdjagadeesh/cloudy-with-a-chance-of-ai) | Infrastructure patterns for deploying an AI agent in a private, secured VPC environment. |
+| [service-workbench-on-aws-mainline](https://github.com/rdjagadeesh/service-workbench-on-aws-mainline) | An AWS-based trusted research environment focused on self-service workspaces, security, governance, and cost control. |
+| [vic_homelab](https://github.com/rdjagadeesh/vic_homelab) | Practical VMware Integrated Containers exercises that show hands-on platform engineering. |
+| [ansible-examples-master](https://github.com/rdjagadeesh/ansible-examples-master) | Automation examples that demonstrate repeatable configuration and operational engineering. |
 
 ---
 
 ## 📈 GitHub Stats
 
-![JD's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdjagadeesh&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdjagadeesh&show_icons=true&hide_border=true&include_all_commits=true" alt="Jagadeesh's GitHub statistics" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdjagadeesh&layout=compact&hide_border=true&langs_count=8" alt="Jagadeesh's most used programming languages" height="165">
+</div>
+
+<div align="center">
+  <a href="https://github.com/rdjagadeesh?tab=repositories">View all 23 public repositories on GitHub</a>
+</div>
 
 ---
 
@@ -77,9 +114,7 @@ With over **18 years of global IT experience**, I've held pivotal roles at indus
 - 🏅 [vExpert Directory](https://vexpert.vmware.com/directory/327)
 
 
-### ✍️ Some of My Most Viewed Medium Articles
+### ✍️ AI Architecture Writing
 
-- 🚀 [ARM in the Cloud: Why the Future of Compute Is Being Rewritten](https://medium.com/@rdjagadeesh/arm-in-the-cloud-why-the-future-of-compute-is-being-rewritten-xyz123)
-- 🔧 [Why Reliability Is the New Currency of Cloud Architecture](https://medium.com/@rdjagadeesh/why-reliability-is-the-new-currency-of-cloud-architecture-abc456)
-- 🤖 [Building Resilient Cloud Architectures with Conformity Bots: A Practical Guide](https://medium.com/@rdjagadeesh/building-resilient-cloud-architectures-with-conformity-bots-a-practical-guide-def789)
+I write about enterprise AI adoption, AI-ready platforms, cloud architecture, reliability, governance, and the practical trade-offs behind modern technology decisions on [Medium](https://medium.com/@rdjagadeesh).
 
